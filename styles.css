@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.notes, .contact, .pdf-viewer {
+    max-width: 800px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.note-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.note {
+    background: #f9f9f9;
+    padding: 15px;
+    border-radius: 5px;
+    flex: 1 1 calc(33.333% - 20px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.note h3 {
+    margin-top: 0;
+}
+
+.note button {
+    background: #3498db;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.note button:hover {
+    background: #2980b9;
+}
+
+.pdf-viewer {
+    display: none; /* Hide PDF viewer initially */
+}
+
+.contact form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+footer {
+    background: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
