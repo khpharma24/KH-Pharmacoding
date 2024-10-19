@@ -1,58 +1,41 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="View academic notes in PDF format.">
-    <title>My Notes Viewer</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>Welcome to My Notes Viewer</h1>
-        <p>Click on a note to view it directly in your browser.</p>
-    </header>
     
-    <section class="notes">
-        <h2>Available Notes</h2>
-        <div class="note-list">
-            <div class="note">
-                <h3>Biotechnology unit 2  Notes</h3>
-                <button onclick="viewPDF('u2.pdf')">View</button>
-            </div>
-            <div class="note">
-                <h3>Math Notes</h3>
-                <button onclick="viewPDF('math-notes.pdf')">View</button>
-            </div>
-            <div class="note">
-                <h3>Physics Notes</h3>
-                <button onclick="viewPDF('physics-notes.pdf')">View</button>
-            </div>
+    <title>KH pharmacoding</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x.icon" href="logo.png">
+    <link rel="stylesheet" href="kh.css">
+<body>
+    <div class="container">
+        <nav>
+            <img src="logo.png" alt="loading...." class="logo">
+            <ul>
+                <li><a href="notes.html">Notes</a></li>
+                <li><a href="lecture.html">Lectures</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSegcLQEAdS2F6Rc0EqIuq9Qd5ilwm7VzBI6bMAxBQRaD23flg/viewform?usp=sf_link">Feedback</a></li>
+                <li><a href="index.html">Home</a></li>
+            </ul>
+        </nav>
+        <div class="content1">
+            <h1>Home</h1> 
+            <p> Hello ! guys welcome to the KH pharmacoding Website & KH Pharmacoding youtube channel , You can give the free handwritten notes or type notes
+            </p> <br> <br>
+            <button><a href="notes.html" class="btnh1 button1">B.PHARMA NOTES</a></button>
+            <button><a href="https://www.youtube.com/@khpharmacoding" class="btnh1 button2"> SUBSCRIBE ! YOUTUBE</a></button>
         </div>
-    </section>
-
-    <section class="pdf-viewer" id="pdf-viewer">
-        <h2>PDF Viewer</h2>
-        <iframe id="pdf-frame" src="" width="100%" height="500px" style="border: none;"></iframe>
-    </section>
-
-    <section class="contact">
-        <h2>Contact Us</h2>
-        <form id="contact-form">
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
-            <label for="message">Message:</label>
-            <textarea id="message" name="message" rows="4" required></textarea>
-            <button type="submit">Send</button>
-        </form>
-    </section>
-
-    <footer>
-        <p>&copy; 2024 My Notes Viewer | All rights reserved.</p>
-    </footer>
-
-    <script src="script.js"></script>
+        <div class="more">
+            <h2>Get More from KH Pharmacoding</h2>
+            <button class="button button1"><a href="https://www.whatsapp.com/channel/0029Vadeg7rJZg3ywbIfLt1D" class="link">WHATSAPP CHANNEL</a></button>
+            <button class="button button2"><a href="https://t.me/pharmacoding" class="link">TELEGRAM</a></button>
+            <button class="button button3"><a href="syllabu.html" class="link">SYLLABUS</a></button>
+            <button class="button button4"><a href="impque.html" class="link">IMP QUESTIONS</a></button>
+            <button class="button button5"><a href="oldque.html" class="link">QUESTION PAPER</a></button>
+        </div>
+        
+    </div>
 </body>
+<footer>
+    <h2 class="copy">COPYRIGHT @ 2024 ALL RIGHT RESERVED BY KH PHARMACODING</h2>
+</footer>
 </html>
