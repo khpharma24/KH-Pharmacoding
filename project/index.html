@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notes Search</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Notes Search</h1>
+        <form id="searchForm">
+            <div class="form-group">
+                <label for="program">Program</label>
+                <select id="program">
+                    <option value="">Select Program</option>
+                    <option value="bpharma">B.Pharma</option>
+                    <option value="mpharma">M.Pharma</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="semester">Semester</label>
+                <select id="semester" disabled>
+                    <option value="">Select Semester</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="subject">Subject</label>
+                <select id="subject" disabled>
+                    <option value="">Select Subject</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="unit">Unit</label>
+                <select id="unit" disabled>
+                    <option value="">Select Unit</option>
+                    <option value="1">Unit 1</option>
+                    <option value="2">Unit 2</option>
+                    <option value="3">Unit 3</option>
+                    <option value="4">Unit 4</option>
+                    <option value="5">Unit 5</option>
+                </select>
+            </div>
+
+            <div id="pdfLink" style="margin-top: 20px;"></div>
+        </form>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
