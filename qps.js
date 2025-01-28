@@ -18,7 +18,8 @@ const data = {
     },
     5: {
       "Winter-Summer (2020-2024)": {
-        "Pharmaceutical organic chemistry III": "https://drive.google.com/file/d/1bjcUdgubCHFyBA_3uhNmUB-zfC7mgdDN/view?usp=drivesdk" },
+        "Pharmaceutical organic chemisrty III": "https://drive.google.com/file/d/1bjcUdgubCHFyBA_3uhNmUB-zfC7mgdDN/view?usp=drivesdk"
+      },
     },
     2: {
       "Summer 2021": {
