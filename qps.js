@@ -16,7 +16,7 @@ const data = {
         "Industial pharmacy I": "https://drive.google.com/file/d/1dlZwNSEQ5NC6mR-leqTPuE-JK9N-ldU6/view?usp=drive_link"
       },
     },
-    5: {
+    4: {
       "Winter-Summer (2020-2024)": {
         "Pharmaceutical organic chemisrty III": "https://drive.google.com/file/d/1bjcUdgubCHFyBA_3uhNmUB-zfC7mgdDN/view?usp=drivesdk",
       },
