@@ -16,6 +16,10 @@ const data = {
         "Industial pharmacy I": "https://drive.google.com/file/d/1dlZwNSEQ5NC6mR-leqTPuE-JK9N-ldU6/view?usp=drive_link"
       },
     },
+    5: {
+      "Winter-Summer (2020-2024)": {
+        "Pharmaceutical organic chemistry III": "https://drive.google.com/file/d/1bjcUdgubCHFyBA_3uhNmUB-zfC7mgdDN/view?usp=drivesdk" },
+    },
     2: {
       "Summer 2021": {
         "Pharmaceutical Chemistry": "https://example.com/bpharma/sem2/summer2021_pharmaceutical_chemistry.pdf",
