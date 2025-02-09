@@ -8,7 +8,9 @@ document.querySelector("form").appendChild(downloadLinkContainer);
 const data = {
     bpharma: {
         1: {
-            "Human Anatomy & Physiology I": "https://drive.google.com/file/d/1tJuDWlhc3GQ_FZWn1YfUerFaK_TILT-L/view"
+            "Human Anatomy & Physiology I": "https://drive.google.com/file/d/1tJuDWlhc3GQ_FZWn1YfUerFaK_TILT-L/view",
+            "Pharmaceutical analysis  I": "https://drive.google.com/file/d/15vpzmCUy2IpavTKBWd7E6Ho2V75kbuuV/view?usp=drive_link"
+
         },
         3: {
             "Pharmaceutical organic chemistry II": "https://drive.google.com/file/d/1aTvHprWuK-ZcV8wacB5G6tynj3DrM4yq/view",
