@@ -21,7 +21,7 @@ const data = {
             "Pharmacognosy & Phytochemistry I": "https://drive.google.com/file/d/1zEP-A0wyreqUILINErvaE394amvgUToG/view"
         },
         4: {
-            "----UPCOMING----": "",
+            "Pharmaceutical organic chemistry III": "https://drive.google.com/file/d/1fauGNN2IT4sXa9mbmNA-nt9t0IZaZH6U/view?usp=drive_link",
             "Medicinal chemisrty I": "https://drive.google.com/file/d/1wJYosbkKi_btTWNQyzgPk57PO8Dhc-Cr/view?usp=drive_link",
             "Physical Pharmaceutics I": "https://drive.google.com/file/d/17RnYc6XlDJQFagNuJw_AGrOVMR_4PJYt/view?usp=drive_link",
             "Pharmacology I": "https://drive.google.com/file/d/1kLvxGyYW3QxPi-Nd6nqCeZzWl7HigwXc/view?usp=drive_link",
