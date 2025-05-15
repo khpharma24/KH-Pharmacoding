@@ -25,7 +25,7 @@ const data = {
             "Medicinal chemisrty I": "https://drive.google.com/file/d/1wJYosbkKi_btTWNQyzgPk57PO8Dhc-Cr/view?usp=drive_link",
             "Physical Pharmaceutics I": "https://drive.google.com/file/d/17RnYc6XlDJQFagNuJw_AGrOVMR_4PJYt/view?usp=drive_link",
             "Pharmacology I": "https://drive.google.com/file/d/1kLvxGyYW3QxPi-Nd6nqCeZzWl7HigwXc/view?usp=drive_link",
-            "Pharmaceutical jurisprudence": "https://drive.google.com/file/d/1zEP-A0wyreqUILINErvaE394amvgUToG/view"
+            "Pharmaceutical jurisprudence": "https://drive.google.com/file/d/1CNxo4pN0M5_1UNKlGANOpBDJ-GDXfvhE/view?usp=drive_link"
         }
 
     },
