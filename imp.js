@@ -13,6 +13,12 @@ const data = {
             "Pharmaceutics ": "https://drive.google.com/file/d/1uPOPIS-2OziT_RukxMxq4cBnNqqq1bZ1/view?usp=drive_link",
             "Pharmaceutical inorganic chemistry  ": "https://drive.google.com/file/d/1CQID-Ei8CBVcCQtJCtFScSv-lTYsv_fS/view?usp=drive_link"
         },
+        
+        2: {
+            "Human Anatomy & Physiology II": "https://drive.google.com/file/d/1sU5ETkmA-MzDgVWSQ6pQb854JrVU2Qpr/view?usp=drive_link",
+           
+        },
+
         3: {
             "Pharmaceutical organic chemistry II": "https://drive.google.com/file/d/1aTvHprWuK-ZcV8wacB5G6tynj3DrM4yq/view",
             "Physical Pharmaceutics I": "https://drive.google.com/file/d/1njYawnyX2thlzsBx9rtNDEV_ym71_RzY/view",
