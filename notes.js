@@ -37,7 +37,15 @@ const data = {
                 4: "https://example.com/bpharma/sem2/unit4_human_anatomy2.pdf",
                 5: "https://example.com/bpharma/sem2/unit5_human_anatomy2.pdf"
             }
+        },
+        4: {
+            "Medicinal chemistry I": {
+                SARs: "https://drive.google.com/file/d/11o5L6dpItMHlaDESfM0eya2Wv0Tg2X8d/view?usp=drive_link",
+            
+    
+            }
         }
+        
     },
     mpharma: {
         1: {
