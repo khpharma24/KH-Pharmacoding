@@ -43,6 +43,11 @@ const data = {
                 SARs: "https://drive.google.com/file/d/11o5L6dpItMHlaDESfM0eya2Wv0Tg2X8d/view?usp=drive_link",
             
     
+            },
+             "Pharmaceutical organic chemistry III": {
+                1: "https://drive.google.com/file/d/1bFzdnkzjYrhKngaXc4lP55kmYPn54gqe/view?usp=drive_link",
+                2: "https://drive.google.com/file/d/19shhLXUvLQOouIEGUCSRIXP2cCzUxnmj/view?usp=drive_link",
+                5: "https://drive.google.com/file/d/1yrOBT8SskJaRkrR2B4rgDoPvNC9nUeB-/view?usp=drive_link"
             }
         }
         
