@@ -30,17 +30,18 @@ const data = {
             }
         },
         2: {
-            "Human Anatomy & Physiology II": {
-                1: "https://example.com/bpharma/sem2/unit1_human_anatomy2.pdf",
-                2: "https://example.com/bpharma/sem2/unit2_human_anatomy2.pdf",
-                3: "https://example.com/bpharma/sem2/unit3_human_anatomy2.pdf",
-                4: "https://example.com/bpharma/sem2/unit4_human_anatomy2.pdf",
-                5: "https://example.com/bpharma/sem2/unit5_human_anatomy2.pdf"
+            "Pharmaceutical engineering": {
+               part1ofimpsolution: "https://drive.google.com/file/d/1-iXKBjU4sRWRlsfbHBKSIKxigys1rk1a/view?usp=drive_link",
+                part2ofimpsolution: "https://drive.google.com/file/d/1-aDJVHtZDUnnTXH9jvusN8sWCeb0S4WC/view?usp=drive_link",
+                part3ofimpsolution: "https://drive.google.com/file/d/1-YcwXD4kqpvXA1LGEzxncgaob6Ra83EO/view?usp=drive_link",
+                part4ofimpsolution: "https://drive.google.com/file/d/1-XIxIIrycw_pojMYMArnzv5O4G118gzF/view?usp=drive_link",
+                part5ofimpsolution: "https://drive.google.com/file/d/1-VrfFwJ-BMSfPE3-iuq4YTdtkp05w6Oz/view?usp=drive_link"
             }
         },
         4: {
             "Medicinal chemistry I": {
                 SARs: "https://drive.google.com/file/d/11o5L6dpItMHlaDESfM0eya2Wv0Tg2X8d/view?usp=drive_link",
+                synthesis: "https://drive.google.com/file/d/1-TAoUObxZiEexowkjjAmg8aYBd1tuXde/view?usp=drive_link"
             
     
             },
