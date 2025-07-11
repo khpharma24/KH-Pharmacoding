@@ -16,6 +16,11 @@ const data = {
         "Industial pharmacy I": "https://drive.google.com/file/d/1dlZwNSEQ5NC6mR-leqTPuE-JK9N-ldU6/view?usp=drive_link"
       },
     },
+
+
+
+
+
     4: {
       "Winter-Summer (2020-2024)": {
         "Pharmaceutical organic chemistry  III": "https://drive.google.com/file/d/1bjcUdgubCHFyBA_3uhNmUB-zfC7mgdDN/view?usp=drive_link",
@@ -24,7 +29,16 @@ const data = {
         "Pharmacology I": "https://drive.google.com/file/d/1cpzyKQbJSQffAfuo92cVBlY4asKkNlkD/view?usp=drive_link",
         "Pharmacutical Jurisprudence": "https://drive.google.com/file/d/1dBi7p0UgCDr2UylYQeML_QV6EN-UBHsh/view?usp=drive_link"
       },
+      "Summer 2025": {
+        "Pharmaceutical organic chemistry  III": "https://drive.google.com/file/d/1EwtNdOsMRxjyAsKU6fxo6SlotzrsL5Iy/view?usp=drive_link",
+        "Medicinal Chemistry I": "https://drive.google.com/file/d/1mLo2rgAO1f7O-6RC92WE3FJbJeuEbCHr/view?usp=drive_link",
+        "Physical pharmaceutics II": "https://drive.google.com/file/d/1D8BhCF9tX9Uy5zdhavoUwYGS8ljezE3N/view?usp=drive_link",
+        "Pharmacology I": "https://drive.google.com/file/d/1J18_6YloiU3n20cnQyjFrped8BZcYzjr/view?usp=drive_link",
+        "Pharmacutical Jurisprudence": "https://drive.google.com/file/d/1qVbAiTHntlX9MD3-_N4qCvBWlslJ7C_P/view?usp=drive_link"
+      },
     },
+
+
 
     2: {
       "Winter-Summer (2020-2024)": {
@@ -32,7 +46,15 @@ const data = {
         "Pharmaceutical Organic Chemistry I": "https://drive.google.com/file/d/1-5I_ntKcV-SPgzZp1x02CsoK07cLaiug/view?usp=drive_link",
         "Pharmaceutical enginerring": "https://drive.google.com/file/d/1Li9kilJ8vhym-gl_VEtJnRldVyg1AsKu/view?usp=drive_link"
       },
+      "Summer 2025": {
+        "Human anatomy & Physiology II ": "https://drive.google.com/file/d/1Ya26E2jL1D69ksiRoNxRpiFHu7TjlgHD/view?usp=drive_link",
+        "Pharmaceutical Organic Chemistry I": "https://drive.google.com/file/d/19opj8tj0mqAgk0BNHYEU3uCIQeT52bEs/view?usp=drive_link",
+        "Pharmaceutical enginerring": "https://drive.google.com/file/d/1fKhWVVVD97sF7nG0zudUGhP4O3UcSqAV/view?usp=drive_link"
+      },
     },
+
+
+
     3 : {
       "Winter-Summer (2020-2024)": {
         "Pharmaceutical organic chemistry  II": "https://drive.google.com/file/d/1JOGo2PJuTHJjVzk2a26eh_v1peHiwMlC/view?usp=drive_link",
@@ -41,7 +63,17 @@ const data = {
         "PathoPhysiology": "https://drive.google.com/file/d/1J_W3xj8TxSnxg6FtqgRiMiSVodyev8Yt/view?usp=drive_link",
         "Pharmacognosy & Phytochemistry I": "https://drive.google.com/file/d/1JbEfZ-mtzWBIvXyzKAfvJsgQeU3SMT5g/view?usp=drive_link"
       },
+      "Summer 2025": {
+        "Pharmaceutical organic chemistry  II": "https://drive.google.com/file/d/1dXqQAOMeNLpgXnkSPetTrBGcvdZ-GI2d/view?usp=drive_link",
+        "Physical pharmaceutics I": "https://drive.google.com/file/d/1VAmvEFSahV1Z8lA0O6p2JI6eXY6jWsaB/view?usp=drive_link",
+        "Biochemistry ": "https://drive.google.com/file/d/1Vy94HqvFNG7YIAXihtFCY-lb_lCFsXIb/view?usp=drive_link",
+        "PathoPhysiology": "https://drive.google.com/file/d/1Gbq0UfDZ5FB5I-1S4mCreLeYNLl90R0c/view?usp=drive_link",
+        "Pharmacognosy & Phytochemistry I": "https://drive.google.com/file/d/1gqwpyDC_T0aDKVVEIOHzPhzCZ1Eb9VJ7/view?usp=drive_link"
+      },
     },
+
+
+
     1: {
       "Winter-Summer (2020-2023)": {
         "Human anatomy & Physiology I ": "https://drive.google.com/file/d/1ccawD0fAvhJ-5NgO3I1uCqQeyFCiN6KZ/view?usp=drive_link",
@@ -49,7 +81,15 @@ const data = {
         "Pharmaceutical inorganic chemistry": "https://drive.google.com/file/d/1ceF61eP1-ZaMAjZH30LwvfVKksoampxT/view?usp=drive_link",
         "Pharmaceutics":"https://drive.google.com/file/d/1ckNcn9sOBCz-KljF7st65Mojzl2fy7xm/view?usp=drive_link",
       },
+      "Summer 2025": {
+        "Human anatomy & Physiology I ": "https://drive.google.com/file/d/16FdHyb_yjWNnZlj4AIyC2qPQzY_6qJ_O/view?usp=drive_link",
+        "Pharmaceutical Analysis I": "https://drive.google.com/file/d/17HBCGnZmL4lq2OxP6vgoL9fOHxp3z9aX/view?usp=drive_link",
+        "Pharmaceutical inorganic chemistry": "https://drive.google.com/file/d/11nTOke77pwGHiPZ2UXmzSqK2NAqL-azt/view?usp=drive_link",
+        "Pharmaceutics":"https://drive.google.com/file/d/1qxZWWns_NU5vctCTanJahy64X_mzWcbr/view?usp=drive_link",
+      },
     },
+
+
     5: {
       "Winter-Summer (2019-2024)": {
         "Medicinal Chemistry II": "https://drive.google.com/file/d/1Li9kilJ8vhym-gl_VEtJnRldVyg1AsKu/view?usp=drive_link",
@@ -58,7 +98,17 @@ const data = {
         "Pharmaceutical Microbiology": "https://drive.google.com/file/d/1CSdTMR0GP_PxELD6T6XSjEZ2w9qpCYZN/view?usp=drive_link",
         "Pharmaceutical Biotechnology": "https://drive.google.com/file/d/1C_0zd4U86soz9D7iWKMVq4gaM-mIS_de/view?usp=drive_link"
       },
+      "Summer 2025 ": {
+        "Medicinal Chemistry II": "https://drive.google.com/file/d/15VjMjGJ1-YpOFCDt-DcWesGpxWgf7aKa/view?usp=drive_link",
+        "Pharmacology II": "https://drive.google.com/file/d/1ziQsysJI3RTg3MN4kyJ02JXjQWvd_5pF/view?usp=drive_link",
+        "Pharmacogonsy & Phytochemisry II": "https://drive.google.com/file/d/1gmQBDqYDpXw3NM6cCP-40JVHRbmi_uUO/view?usp=drive_link",
+        "Pharmaceutical Microbiology": "https://drive.google.com/file/d/1PWdp8sPNbGtFK2BDE61ZUDNxPeWFU8c7/view?usp=drive_link",
+        "Pharmaceutical Biotechnology": "https://drive.google.com/file/d/1ZXp9uzLaJZvgKraw5N3sjt3ZZqo_Z1VA/view?usp=drive_link"
+      },
     },
+
+
+
     7: {
       "Winter-Summer (2020-2025)": {
         "Instrumental Methods of Analysis": "https://drive.google.com/file/d/1_JDQ2bdP8hbYp6vlyD7dt9xTd2_MiXzD/view?usp=drive_link",
@@ -68,6 +118,9 @@ const data = {
         "Quality Assurance": "https://drive.google.com/drive/folders/1S0ZKpaTgwpGX7pWMm5WZK0Pcw0jObpcZ?usp=drive_link"
       },
     },
+
+
+
   },
   mpharma: {
     1: {
