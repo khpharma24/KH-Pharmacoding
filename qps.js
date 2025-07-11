@@ -59,6 +59,15 @@ const data = {
         "Pharmaceutical Biotechnology": "https://drive.google.com/file/d/1C_0zd4U86soz9D7iWKMVq4gaM-mIS_de/view?usp=drive_link"
       },
     },
+    7: {
+      "Winter-Summer (2020-2025)": {
+        "Instrumental Methods of Analysis": "https://drive.google.com/file/d/1_JDQ2bdP8hbYp6vlyD7dt9xTd2_MiXzD/view?usp=drive_link",
+        "Industrial Pharmacy II": "https://drive.google.com/file/d/1LXL8lH_p5lLmZF-QGfrlVIBX2eEu5qXa/view?usp=drive_link",
+        "Pharmacy Practice": "https://drive.google.com/file/d/1jGFtTCIR0inQbKIesZgQH0NxmaCpbbmA/view?usp=drive_link",
+        "Novel Drug Delivery Systems": "https://drive.google.com/drive/folders/1h5WBbVwBXDZEGuJvqqbnHjSSCWj5btFc?usp=drive_link",
+        "Quality Assurance": "https://drive.google.com/drive/folders/1S0ZKpaTgwpGX7pWMm5WZK0Pcw0jObpcZ?usp=drive_link"
+      },
+    },
   },
   mpharma: {
     1: {
