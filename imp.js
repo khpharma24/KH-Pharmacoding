@@ -20,18 +20,25 @@ const data = {
         },
 
         3: {
-            "Pharmaceutical organic chemistry II": "https://drive.google.com/file/d/1aTvHprWuK-ZcV8wacB5G6tynj3DrM4yq/view",
-            "Physical Pharmaceutics I": "https://drive.google.com/file/d/1njYawnyX2thlzsBx9rtNDEV_ym71_RzY/view",
-            "Biochemistry": "https://drive.google.com/file/d/1_TMtBscQyKAlVYk1a24lttSn0D4Rz05T/view",
-            "Pathophysiology": "https://drive.google.com/file/d/1WX82ndbKeRMBYFwDyWqyYm7dXNl0n7vN/view",
-            "Pharmacognosy & Phytochemistry I": "https://drive.google.com/file/d/1zEP-A0wyreqUILINErvaE394amvgUToG/view"
+            "Pharmaceutical organic chemistry II": "https://drive.google.com/file/d/1S6jR4zHS0KbuIu-6V7FkWQe_jzVZ5dyQ/view?usp=drive_link",
+            "Physical Pharmaceutics I": "https://drive.google.com/file/d/1RMZw5MEBJpIxnJn7F_Zgip54eAtYwztb/view?usp=drive_link",
+            "Biochemistry": "https://drive.google.com/file/d/1RKlY9PyJxVhS-6CH1Zd-I5XsPgHKwi-T/view?usp=drive_link",
+            "Pathophysiology": "https://drive.google.com/file/d/1ReXVnrFoPhdFG1OYfb_3s03HTbZ3JM4W/view?usp=drive_link",
+            "Pharmacognosy & Phytochemistry I": "https://drive.google.com/file/d/1S8yGw6OQkmyP4zoDwyBetz1YCI_cc-bW/view?usp=drive_link"
         },
         4: {
             "Pharmaceutical organic chemistry III": "https://drive.google.com/file/d/1fauGNN2IT4sXa9mbmNA-nt9t0IZaZH6U/view?usp=drive_link",
             "Medicinal chemisrty I": "https://drive.google.com/file/d/1wJYosbkKi_btTWNQyzgPk57PO8Dhc-Cr/view?usp=drive_link",
-            "Physical Pharmaceutics I": "https://drive.google.com/file/d/17RnYc6XlDJQFagNuJw_AGrOVMR_4PJYt/view?usp=drive_link",
+            "Physical Pharmaceutics II": "https://drive.google.com/file/d/17RnYc6XlDJQFagNuJw_AGrOVMR_4PJYt/view?usp=drive_link",
             "Pharmacology I": "https://drive.google.com/file/d/1kLvxGyYW3QxPi-Nd6nqCeZzWl7HigwXc/view?usp=drive_link",
             "Pharmaceutical jurisprudence": "https://drive.google.com/file/d/1CNxo4pN0M5_1UNKlGANOpBDJ-GDXfvhE/view?usp=drive_link"
+        },
+        5: {
+            "Medicinal chemisrty II": "https://drive.google.com/file/d/1R4XPGULALfEvxIOWubpVoIjiZQiv0nYY/view?usp=drive_link",
+            "Pharmacology II": "https://drive.google.com/file/d/1R54LrJo8ifSJv8rcMw6gzP021j-_1YOi/view?usp=drive_link",
+            "Pharmacognosy & Phytochemistry II": "https://drive.google.com/file/d/1R6u7cOALm2_TT29ilS_wxVPnDV3GmK7v/view?usp=drive_link",
+            "Pharmaceutical Microbiology ": "https://drive.google.com/file/d/1REV8XdX5lY_5LsvX6tA0KMXtOT7seveT/view?usp=drive_link",
+            "Pharmaceutical Biotechnology": "https://drive.google.com/file/d/1RJRr4_gysjn3yjahn1Qm2mG8rMJlAwKa/view?usp=drive_link"
         }
 
     },
