@@ -50,8 +50,20 @@ const data = {
                 2: "https://drive.google.com/file/d/19shhLXUvLQOouIEGUCSRIXP2cCzUxnmj/view?usp=drive_link",
                 5: "https://drive.google.com/file/d/1yrOBT8SskJaRkrR2B4rgDoPvNC9nUeB-/view?usp=drive_link"
             }
-        }
+        },
         
+        5: {
+            "Pharmaceutical microbiology": {
+                u2chep1: "https://drive.google.com/file/d/1tHZ4EY51zsgEvlbp3vWQcfquxDkBmtk7/view?usp=drive_link"
+            
+    
+            },
+             "Pharmaceutical organic chemistry III": {
+                1: "https://drive.google.com/file/d/1bFzdnkzjYrhKngaXc4lP55kmYPn54gqe/view?usp=drive_link",
+                2: "https://drive.google.com/file/d/19shhLXUvLQOouIEGUCSRIXP2cCzUxnmj/view?usp=drive_link",
+                5: "https://drive.google.com/file/d/1yrOBT8SskJaRkrR2B4rgDoPvNC9nUeB-/view?usp=drive_link"
+            }
+        }
     },
     mpharma: {
         1: {
