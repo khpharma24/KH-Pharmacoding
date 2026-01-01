@@ -39,6 +39,13 @@ const data = {
             "Pharmacognosy & Phytochemistry II": "https://drive.google.com/file/d/1R6u7cOALm2_TT29ilS_wxVPnDV3GmK7v/view?usp=drive_link",
             "Pharmaceutical Microbiology ": "https://drive.google.com/file/d/1REV8XdX5lY_5LsvX6tA0KMXtOT7seveT/view?usp=drive_link",
             "Pharmaceutical Biotechnology": "https://drive.google.com/file/d/1RJRr4_gysjn3yjahn1Qm2mG8rMJlAwKa/view?usp=drive_link"
+        },
+        6: {
+            "Medicinal chemisrty III": "https://drive.google.com/file/d/1aziYy6bWo7mPVdL-jGvzWLfJKZyvxi_V/view?usp=sharing",
+            "Pharmacology III": "https://drive.google.com/file/d/1ol0MJXimmarzHRkg87k7zGHSCDuXPzki/view?usp=drive_link",
+            "Herbal drug technology": "https://drive.google.com/file/d/1rMSUvxbp1f5AAlM4MHPQ2KI29EWj8h4j/view?usp=drive_link",
+            "Biopharmaceutics & pharmacokinetics ": "https://drive.google.com/file/d/1LvwA9RshaLJ1B6RnC6pfGXdFJ-qbjdND/view?usp=drive_link",
+            "Industrail pharmacy I": "https://drive.google.com/file/d/10tKmpxVLF3o4Q3XsufbLPA1vWh7W7gKc/view?usp=drive_link"
         }
 
     },
