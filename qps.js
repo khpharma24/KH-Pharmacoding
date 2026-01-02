@@ -120,6 +120,15 @@ const data = {
     },
 
 
+    8: {
+      "Winter-Summer (2021-2025)": {
+        "Biostatistic & Research methodology": "https://drive.google.com/file/d/1tXKVr-UsjDZRYHPqmFFKy5rc-aT5qpFR/view?usp=drivesdk",
+        "Social & Preventive Pharmacy": "https://drive.google.com/file/d/1tXKVr-UsjDZRYHPqmFFKy5rc-aT5qpFR/view?usp=drivesdk",
+        "Pharma marketing management": "https://drive.google.com/file/d/1TAjDpYV8d_bU8lalId8Dm1kPxjtlAl2D/view?usp=drivesdk",
+        "Cosmetic science": "https://drive.google.com/file/d/1BqXGit91tIADQ_N7dDkLOMlm2TDo69JG/view?usp=drivesdk"
+      },
+    },
+
 
   },
   mpharma: {
@@ -208,3 +217,4 @@ subjectSelect.addEventListener("change", () => {
     linkContainer.appendChild(downloadLink);
   }
 });
+
