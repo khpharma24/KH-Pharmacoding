@@ -16,7 +16,7 @@ const data = {
         
         2: {
             "Human Anatomy & Physiology II": "https://drive.google.com/file/d/1sU5ETkmA-MzDgVWSQ6pQb854JrVU2Qpr/view?usp=drive_link",
-            "Pharamceutical Organic Chemisty I": "https://drive.google.com/file/d/1it5mgqqOgFY6Z-y0aDrH_HFV34Lwc4oE/view?usp=drive_link"
+            "Pharamceutical Organic Chemisty I": "https://drive.google.com/file/d/1tUQIFLeMKUBhLPXtSJj6ykaubeD_2Il0/view?usp=drive_link"
            
         },
 
